@@ -1,0 +1,21 @@
+JediMage v1
+
+What is it?
+	Remake of Arcomage from Might & Magic VII
+	Card game where two or more wizards battle until only their own tower stands
+	Open source under the GNU General Public License v3+
+	
+What do I need to know?
+	The 'decks' folder holds decks written into .txt files
+	The 'players' folder holds players written into .txt files
+	These two folders must be in the same folder as the program
+
+What do I need to run the program?
+	Java
+
+Edit decks and players?
+	Sure! Just learn from the 'example deck.txt' and 'example player.txt' files
+	Share your deck builds with others please
+
+Who wrote this? Where can I send bug reports, questions, or comments?
+	James Koval <james.ross.koval@gmail.com>

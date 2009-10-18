@@ -1,0 +1,33 @@
+Jedi Mage plays through one game with no limit on players.
+Players each have the resources: gem, brick, beast
+These resources grow each turn based on:
+magic, quarry, zoo
+Each player is a wizard atop his own tower.
+A tower is protected from damage by a wall.
+The game continues until a tie or winner is found.
+One is a winner when all other players are dead.
+A player dies when their tower <= 0 or
+if they try to draw from an empty library.
+
+Jedi Mage starts by asking if a quickstart should happen.
+This will immediatly begin a game
+between Player 0 and Player 1
+using a deck from the decks folder called quickstart.txt
+for each player.
+A player's turn starts by increasing gem, brick, and beast
+by a player's magic, quarry, and zoo
+Also a card is drawn. If a player's hand > 7
+cards are discarded until the hand = 7.
+
+A player may play one card per turn if able.
+Cards are listed like this:
+[Card Name]
+  [Cost] [Resource the cost draws upon]
+    [Effect Value] [Resource] [Effect Target]
+Some cards can target an enemy. The enemy target is
+chosen immediately by the player, who can even target
+himself as the enemy.
+
+A good strategy is to play cards that increase
+magic, quarry, and zoo early so your gem, brick, beast
+are high later in the game for expensive cards.
