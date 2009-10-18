@@ -1,0 +1,23 @@
+#Player name is the file name
+
+#Player starting stats
+#Unlisted stats are set to defaults
+1 Quarry
+1 Zoo
+1 Magic
+10 Brick
+10 Beast
+10 Gem
+30 Tower
+15 Wall
+
+#Player win conditions if any
+10 Quarry You
+10 Zoo You
+10 Magic You
+100 Brick You
+100 Beast You
+100 Gem You
+100 Tower You
+150 Wall You
+42 Tower Enemy

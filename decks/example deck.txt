@@ -1,0 +1,412 @@
+#This is a comment because it starts with '#' character
+#Just follow the comments and refer to this example file
+#  to make a deck
+#Deck name starts this deck file
+
+#Insert cards by typing:
+#Card Name
+#[Card Cost] [Resource used]
+#[Damage Delt] [Target]
+#[Effect1 Cost] [Resource used] [Target]
+#[Effect2 Cost] [Resource used] [Target]
+Brick Shortage
+0
+-8 brick all
+
+Lucky Catche
+0
+6 Brick you
+6 Gem you
+
+Friendly Terain
+1 brick
+3 wall you
+
+Miners
+3 brick
+1 quarry you
+
+Vampire
+17 beasts
+10 enemy
+-5 beast enemy
+-1 zoo enemy
+
+Dwarven Miners
+7 brick
+4 wall you
+1 quarry you
+
+Work Overtime
+2 brick
+5 wall you
+-6 gem you
+
+Basic Wall
+2 brick
+3 wall you
+
+Sturdy Wall
+3 brick
+5 wall you
+
+Innovations
+2 brick
+1 quarry all
+4 gem you
+
+Tremors
+7 brick
+-5 wall all
+
+Secret Room
+12 brick
+3 magic you
+
+Earthquake
+0
+-1 quarry all
+
+Big Wall
+5 brick
+8 wall you
+
+#Mother Lode
+#4 brick
+#If quarry«an enemy quarry,+2 quarry
+#else +1 quarry
+
+Collapse
+4 brick
+-1 quarry enemy
+
+#Copping the Tech
+#5 brick
+#if quarry«an enemy quarry, quarry you=enemy quarry
+
+New Equipment
+6 brick
+2 quarry you
+
+Strip Mine
+0
+-1 quarry you
+10 wall you
+5 gem you
+
+Reinforced wall
+10 brick
+12 wall you
+
+Porticulus
+9 brick
+5 wall you
+1 zoo you
+
+Crystal Rocks
+9 brick
+9 wall you
+9 gem you
+
+Harmonic Ore
+11 brick
+6 wall you
+3 tower you
+1 magic you
+
+Mondo Wall
+13 brick
+16 wall you
+
+Focused Designs
+15 brick
+8 wall you
+5 tower you
+
+Great Wall
+16 brick
+20 wall you
+
+Rock Launcher
+18 brick
+8 wall you
+10 enemy
+
+Dragon's Heart
+24 brick
+30 wall you
+12 tower you
+
+Forced Labor
+7 brick
+12 wall you
+4 tower you
+-5 beast you
+
+Quartz
+1 gem
+3 tower you
+
+Smoky Quartz
+2 gem
+-3 tower enemy
+
+Amethyst
+2 gem
+5 tower you
+
+Spell Weavers
+3 gem
+1 magic you
+
+Solar Flare
+4 gem
+2 tower you
+-2 tower enemy
+
+Crystal Matrix
+6 gem
+1 magic you
+5 tower you
+2 tower enemy
+
+Gemstone Flaw
+2 gem
+-3 tower enemy
+
+Ruby
+3 gem
+7 tower you
+
+Gem Spear
+4 gem
+-5 tower enemy
+
+Power Burn
+3 gem
+2 magic you
+-5 tower you
+
+Harmonic Vibe
+7 gem
+1 magic you
+5 tower you
+5 wall you
+
+Emerald
+6 gem
+10 tower you
+
+Pearl of Wisdom
+9 gem
+5 tower you
+1 magic you
+
+Shatterer
+8 gem
+-1 magic you
+-9 tower enemy
+
+Crumblestone
+7 gem
+7 tower you
+-8 brick enemy
+
+Sapphire
+10 gem
+13 tower you
+
+Chaos and Discord
+15 gem
+-15 tower all
+-15 wall all
+-2 magic all
+-2 zoo all
+-2 quarry all
+-12 brick all
+-12 gem all
+-12 beast all
+
+Fire Ruby
+13 gem
+10 tower you
+-6 tower enemy
+
+Quarry's Help
+4 gem
+10 tower you
+-10 brick you
+
+Crystal Shield
+12 gem
+12 tower you
+6 wall you
+
+Empathy Gem
+14 gem
+10 tower you
+1 zoo you
+
+Diamond
+16 gem
+18 tower you
+
+Sanctuary
+15 gem
+12 tower you
+8 wall you
+5 beast you
+
+Lava Jewel
+17 gem
+16 tower you
+-8 wall enemy
+
+Dragon's Eye
+30 gem
+35 tower you
+
+Crystalize
+8 gem
+11 tower you
+-6 wall you
+
+Mad Cow Disease
+0
+-6 beast all
+
+Faerie
+1 beast
+4 enemy
+
+Moody Goblins
+2 beast
+6 enemy
+-4 gem you
+
+Minotaur
+3 beast
+1 zoo you
+
+Goblin Mob
+3 beast
+10 enemy
+5 you
+
+Goblin Archers
+4 beast
+-5 tower enemy
+3 you
+
+Orc
+3 beast
+8 enemy
+
+Dwarves
+8 beast
+6 enemy
+4 wall you
+1 quarry you
+
+Little Snakes
+6 beast
+-4 tower enemy
+
+Troll Trainer
+7 beast
+2 zoo you
+
+Tower Gremlin
+8 beast
+2 enemy
+4 wall you
+2 tower you
+
+Full Moon
+0
+1 zoo all
+3 beast you
+
+Slasher
+7 beast
+10 enemy
+
+Ogre
+10 beast
+12 enemy
+
+Rabid Sheep
+6 beast
+6 enemy
+-3 beast enemy
+
+Imp
+5 beast
+6 enemy
+-5 brick all
+-5 gem all
+-5 beast all
+
+Werewolf
+3 beast
+9 enemy
+
+Corrosion Cloud
+17 beast
+15 enemy
+
+Unicorn
+9 beast
+12 enemy
+1 magic you
+
+Elven Archers
+12 beast
+-6 tower enemy
+
+Succubus
+15 beast
+-8 tower enemy
+-10 beast enemy
+
+Rock Stompers
+11 beast
+8 enemy
+-1 quarry enemy
+
+Thief
+12 beast
+-10 brick enemy
+-10 gem enemy
+-10 beast enemy
+10 beast you
+10 gem you
+10 brick you
+
+Stone Giant
+15 beast
+12 enemy
+8 wall you
+
+Dragon
+35 beast
+30 enemy
+-10 beast enemy
+-1 zoo enemy
+
+Khoz Mozhai Devourer of Souls
+100 beast
+100 enemy
+-5 quarry enemy
+-5 magic enemy
+-5 zoo enemy
+-50 beast enemy
+-50 gem enemy
+-50 brick enemy
+50 you
+-3 quarry you
+-3 magic you
+-3 zoo you
+-30 brick you
+-30 gem you
+-30 beast you
